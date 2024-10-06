@@ -1,0 +1,14 @@
+Python divides the operators in the following groups:
+
+Arithmetic operators
+Assignment operators
+Comparison operators
+Logical operators
+Identity operators
+Membership operators
+Bitwise operators
+
+
+An operators is a symbol that perform an operations . An operator acts on some varibales called operands.
+ex : a + b
+"+" is oerator and a and b are operands

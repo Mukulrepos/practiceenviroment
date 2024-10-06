@@ -1,0 +1,2 @@
+converting the number into binary system 
+decimal to binary use(bin() function)
