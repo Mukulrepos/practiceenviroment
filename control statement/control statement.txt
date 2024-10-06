@@ -1,0 +1,3 @@
+Control statements in Python manage the flow of a program by modifying the normal execution sequence. They are typically used within loops or conditional structures. The main control statements are:
+
+These statements help in decision-making and handling complex conditions, often combined with conditional statements (if-else) and loops (for, while) to create efficient control flows.
